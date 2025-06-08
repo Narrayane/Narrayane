@@ -1,7 +1,7 @@
 # Olá, meu nome é Narrayane!
 ## Seja bem vindo ao meu perfil no GitHub👋
-- 🔭 I'm an accountant
-- 🌱 I am currently learning programming logic
+- 🔭 Sou contadora
+- 🌱 Atualmente estou aprendendo lógica de programação, modelagem de dados com Python e ETL
 
 ## Ferramentas e Tecnologias
 
