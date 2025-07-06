@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile 👋
 
 - 🔭 I'm an accountant
-- 🌱 I'm currently transitioning into the data field, focusing on programming logic, data modeling, and ETL processes with Python  
+- 🌱 I'm an accountant enhancing my expertise with programming and data tools to bridge finance and technology through smarter, data-driven solutions.
 - ✅ I have completed the following learning paths on Alura:
   - **Programming for Beginners**
   - **Data Modeling with Python**
@@ -10,17 +10,37 @@
 
 ## Tools and Technologies
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;&nbsp;Git  
+</p>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;&nbsp;Visual Studio Code  
+</p>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>&nbsp;&nbsp;GitHub  
+</p>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>&nbsp;&nbsp;Google Colab  
+</p>
 
 ## Currently Learning
 
-## Currently Learning
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>&nbsp;&nbsp;Java  
+</p>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;&nbsp;Python  
+</p>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;&nbsp;Pandas  
+</p>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;&nbsp;NumPy  
+</p>
+<p>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;&nbsp;MySQL  
+</p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/Narrayane">
